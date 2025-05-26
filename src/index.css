@@ -1,0 +1,17 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@500&family=Noto+Sans+Arabic:wght@500&display=swap');
+
+.arab-font{
+    font-family: 'Noto Naskh Arabic', serif;
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
+.active_page{
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+.active_page a{
+    padding-left: 10px;
+    padding-right: 10px;
+}

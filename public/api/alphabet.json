@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "alphabet": "ا",
+        "english": "alif"
+    },
+    {
+        "id": 2,
+        "alphabet": "ب",
+        "english": "Bā'"
+    },
+    {
+        "id": 3,
+        "alphabet": "ت",
+        "english": "Tā'"
+    },
+    {
+        "id": 4,
+        "alphabet": "ث",
+        "english": "Thā'"
+    },
+    {
+        "id": 5,
+        "alphabet": "ج",
+        "english": "Jīm"
+    },
+    {
+        "id": 6,
+        "alphabet": "ح",
+        "english": "Ḥā'"
+    },
+    {
+        "id": 7,
+        "alphabet": "خ",
+        "english": "Khā'"
+    },
+    {
+        "id": 8,
+        "alphabet": "د",
+        "english": "Dāl"
+    },
+    {
+        "id": 9,
+        "alphabet": "ر",
+        "english": "Rā'"
+    },
+    {
+        "id": 10,
+        "alphabet": "ز",
+        "english": "Zāy"
+    },
+    {
+        "id": 11,
+        "alphabet": "س",
+        "english": "Sīn"
+    },
+    {
+        "id": 12,
+        "alphabet": "ش",
+        "english": "Shīn"
+    },
+    {
+        "id": 13,
+        "alphabet": "ص",
+        "english": "Ṣād"
+    },
+    {
+        "id": 14,
+        "alphabet": "ض",
+        "english": "Ḍād"
+    },
+    {
+        "id": 15,
+        "alphabet": "ط",
+        "english": "Ṭā'"
+    },
+    {
+        "id": 16,
+        "alphabet": "ظ",
+        "english": "Ẓā'"
+    },
+    {
+        "id": 17,
+        "alphabet": "ع",
+        "english": "ayn"
+    },
+    {
+        "id": 18,
+        "alphabet": "غ",
+        "english": "Ghayn"
+    },
+    {
+        "id": 19,
+        "alphabet": "ف",
+        "english": "Fā'"
+    },
+    {
+        "id": 20,
+        "alphabet": "ق",
+        "english": "Qāf"
+    },
+    {
+        "id": 21,
+        "alphabet": "ك",
+        "english": "Kāf"
+    },
+    {
+        "id": 22,
+        "alphabet": "ل",
+        "english": "Lām"
+    },
+    {
+        "id": 23,
+        "alphabet": "م",
+        "english": "Mīm"
+    },
+    {
+        "id": 24,
+        "alphabet": "ن",
+        "english": "Nūn"
+    },
+    {
+        "id": 25,
+        "alphabet": "ه",
+        "english": "Hā'"
+    },
+    {
+        "id": 26,
+        "alphabet": "و",
+        "english": "Wāw"
+    },
+    {
+        "id": 27,
+        "alphabet": "ي",
+        "english": "Yā'"
+    },
+    {
+        "id": 28,
+        "alphabet": "ء",
+        "english": "Hamza"
+    }
+]

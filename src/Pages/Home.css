@@ -1,0 +1,8 @@
+.card_hover:hover{
+    color: #ffffff;
+    background-color: #36363b;
+}
+
+.card_hover:hover h5 {
+    color: #ffffff;
+}
